@@ -1,6 +1,6 @@
 import 'core-js/actual';
-import 'core-js/stable';
-import 'regenerator-runtime';
+import 'core-js/actual';
+import 'regenerator-runtime/runtime.js';
 
 //modules
 import { MODAL_CLOSE_SEC } from './config.js';
